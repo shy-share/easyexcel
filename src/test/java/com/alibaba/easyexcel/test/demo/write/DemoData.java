@@ -25,7 +25,7 @@ public class DemoData {
     @ExcelProperty("数字标题")
     private Double doubleData;
     /**
-     * 忽略这个字段
+     * test
      */
     @ExcelIgnore
     private String ignore;
